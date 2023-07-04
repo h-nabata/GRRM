@@ -1,0 +1,275 @@
+*************************************************************************
+ Global Reaction Route Mapping (GRRM) Program,                           
+     Produced by Satoshi Maeda, Yu Harabuchi, Yosuke Sumiya,             
+                 Makito Takagi, Kimichi Suzuki, Kanami Sugiyama,         
+                 Yuriko Ono, Miho Hatanaka, Yuto Osada,                  
+                 Tetsuya Taketsugu, Keiji Morokuma, Koichi Ohno,         
+                                  (Version 23, Release: January 23, 2023)
+*************************************************************************
+ MC-AFIR: Multi-component artificial force induced reaction       (by SM)
+      using the interface with the GAUSSIAN program               (by SM)
+*************************************************************************
+
+# 5th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 72
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 0th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 74
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 1th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 95
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 3th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 115
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 4th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 152
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 7th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 169
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 2th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 171
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 6th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 194
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 8th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 158
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 9th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 159
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 10th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 154
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 14th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 90
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 12th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 119
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 17th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 72
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 11th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 213
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 16th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 92
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 15th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 167
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 19th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 131
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 21th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 96
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 18th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 170
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 13th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 298
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
+
+# 23th run was finished.
+-------------------------------------------------------------------------
+
+NUMBER OF SINGLE POINT CALCULATIONS : 0
+NUMBER OF FORCE CALCULATIONS        : 120
+NUMBER OF HESSIAN CALCULATIONS      : 0
+NUMBER OF MICROITERATIONS           : 0
+
+See _Pn.log for summary that were printed here in previous versions......
+-------------------------------------------------------------------------
+
